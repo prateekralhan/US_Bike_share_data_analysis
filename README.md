@@ -11,5 +11,5 @@ Thanks to the rise in information technologies, it is easy for a user of the sys
 or return bicycles. These technologies also provide a wealth of data that can be used to explore how these bike-sharing systems 
 are used.
 This Python script will use data provided by "Motivate", a bike share system provider for many major cities in the United States, 
-to uncover bike share usage patterns. You will compare the system usage between three large cities: Chicago, New York City, and
+to uncover bike share usage patterns, and then will compare the system usage between three large cities: Chicago, New York City, and
 Washington, DC.
